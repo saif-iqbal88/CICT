@@ -39,7 +39,7 @@ jobs:
         attachments: ./build/reports/feature.html
 
         from: Github Actions
-        to: saifiqbal424@gail.com
+        to: saifiqbal424@gmail.com
         content_type: text/html
           # Optional converting Markdown to HTML (set content_type to text/html too):
         convert_markdown: true
